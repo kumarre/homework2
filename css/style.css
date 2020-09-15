@@ -12,7 +12,7 @@ Twitter: @rich_clark
 }*/
 
 body {
-	font-family: "Lucinda Grande", sans-serif;
+	font-family: "Lucida Grande", sans-serif;
 	color: #FFFFFF;
 	background-color: #000000;
 }
@@ -74,6 +74,5 @@ div {
 
 footer p {
 	text-align: right;
-	padding-bottom: 10px;
-	padding-right: 10px;
+	padding: 0 10px 10px 0;
 }
